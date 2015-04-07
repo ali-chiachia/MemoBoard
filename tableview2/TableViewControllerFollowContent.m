@@ -8,6 +8,8 @@
 
 #import "TableViewControllerFollowContent.h"
 
+
+//memoBoard test
 @interface TableViewControllerFollowContent ()
 {
     NSMutableArray *informationArray;
